@@ -1,0 +1,75 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcb96qVgKxsNxvDv2XnL1M5pJUBovRao0kIQ&s);
+    background-size: cover;
+    margin: 0px;
+}
+.Eyyub{
+    height: 145px;
+    min-width: 200px;
+    background-color: darkgreen;
+    outline:5px red double;
+    border: dotted;
+    display: inline-block;   
+    float: left;  
+    transition: 1s; 
+    
+}
+.Meshum{
+    width: 238px;
+    height: 145px;
+    background-color: darkgreen;
+    display: inline-block;
+  
+    outline:5px red double;
+    border: dotted;
+    float: left;
+}   
+.Set{
+    height: 145px;
+    width: 235px;
+    float: left;
+}
+.Margin{
+    margin-top: 5px;
+    
+    
+}
+.Style{
+    height: 1000px;
+    width: 1000px;
+}
+.Stt{
+    border: 2px solid wheat;
+    outline: 2px solid red;
+    border-radius: 25px;
+  text-align: end;
+  float: right;
+  width: 300px;
+  height:330px ;
+}
+.Hadi{
+    color: rebeccapurple;
+    font-size: larger;
+    display: inline-block;
+    text-align: start;
+}
+.Hadii{
+    color: rebeccapurple;
+    font-size: larger;
+    display: inline-block;
+   text-align: center;
+}
+.Sa{
+    color:white;
+    font-size: larger;
+    transition: 0,5;
+}
+.Sa:hover{
+    font-size: x-large;
+    color: black;
+
+}
+.Eyyub:hover{
+    background-color:lightgreen;
+   
+}
